@@ -1,11 +1,6 @@
-## 🚧 Notice 🚧
+## Notice
 
-<p style="color: red; font-weight: bold;">
-  🔧 I am currently in the process of adding new problems and solutions related to bit manipulation and bitmasking to this repository. 🛠️ Please stay tuned as I commit these updates soon. Your patience is appreciated as I work to enhance the content and provide valuable resources.
-</p>
-
-<p>🔍 Feel free to check back regularly for new additions and updates! ⏳</p>
-
+**I am currently in the process of adding new problems and solutions related to bit manipulation and bitmasking to this repository. Please stay tuned as I commit these updates soon. Your patience is appreciated as I work to enhance the content and provide valuable resources.** add red color and add some emojis related to it
 
 # BitMaskingAndManipulation
 
