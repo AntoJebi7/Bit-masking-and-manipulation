@@ -1,3 +1,7 @@
+## Notice
+
+**I am currently in the process of adding new problems and solutions related to bit manipulation and bitmasking to this repository. Please stay tuned as I commit these updates soon. Your patience is appreciated as I work to enhance the content and provide valuable resources.**
+
 # BitMaskingAndManipulation
 
 Welcome to **BitMaskingAndManipulation**! This repository provides a wide array of tools, algorithms, and examples for mastering bit manipulation and bitmasking techniques. Perfect for optimizing code and solving complex problems with efficiency.
